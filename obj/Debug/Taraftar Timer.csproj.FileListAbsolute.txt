@@ -1,0 +1,16 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\bin\Debug\Taraftar Timer.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\bin\Debug\Taraftar Timer.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\bin\Debug\Taraftar Timer.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar_Timer.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar_Timer.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\obj\Debug\Interop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\obj\Debug\Taraftar Timer.csproj.ResolveComReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\bin\Debug\Interop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Taraftar Timer\Taraftar Timer\bin\Debug\AxInterop.WMPLib.dll
